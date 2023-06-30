@@ -13,4 +13,12 @@ return {
     "github/copilot.vim",
     lazy = false,
   },
+  {
+    "tpope/vim-fugitive",
+    lazy = false,
+  },
+  {
+    "mattn/emmet-vim",
+    lazy = false,
+  },
 }
